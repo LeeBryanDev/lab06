@@ -1,0 +1,4 @@
+tomate
+22
+60
+true
